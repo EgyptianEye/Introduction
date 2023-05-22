@@ -18,6 +18,7 @@ Self-Taught Software Engineer | Full Stack Developer
 
 ● HTML5
 
+
 I have a particular focus on web development, including expertise in HTML5, allowing me to create engaging and dynamic web applications.
 
 🌐 In addition to web development, I have experience working with databases and designing efficient and scalable database solutions.
