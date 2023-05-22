@@ -1,3 +1,6 @@
+#include<stdio.h>
+int main(){
+
 Self-Taught Software Engineer | Full Stack Developer
 
 👋 Hello! I'm Carlos Eduardo, a self-taught software engineer with a passion for full stack development. With over 8 years of programming experience, I have acquired a versatile skill set and a deep understanding of various programming languages and technologies.
